@@ -1,0 +1,18 @@
+﻿.form-group .form-control{
+    width: 200%;
+}
+
+.create-actions{
+    display: flex;
+}
+
+.add-employee{
+    width: 200px;
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 900px) {
+    .form-group .form-control {
+        width: 100%;
+    }
+}
